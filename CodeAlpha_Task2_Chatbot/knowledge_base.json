@@ -1,0 +1,40 @@
+{
+    "questions": [
+        {
+            "q": "What is your return policy?",
+            "a": "You can return any product within 30 days of purchase if you have the receipt."
+        },
+        {
+            "q": "How do I track my order?",
+            "a": "Once shipped, you will receive a tracking link via email. You can also track it on our website under 'My Orders'."
+        },
+        {
+            "q": "Do you offer international shipping?",
+            "a": "Yes! We ship to over 150 countries worldwide including USA, UK, Canada, and Pakistan."
+        },
+        {
+            "q": "What payment methods do you accept?",
+            "a": "We accept Visa, MasterCard, PayPal, Apple Pay, and Google Pay."
+        },
+        {
+            "q": "How can I contact support?",
+            "a": "Our support team is available 24/7. Email us at support@codealpha.tech or call +1-800-555-0199."
+        },
+        {
+            "q": "Where are you located?",
+            "a": "Our headquarters are located in Silicon Valley, CA, but we are a remote-first company."
+        },
+        {
+            "q": "hello",
+            "a": "Hi there! I am your AI assistant. How can I help you today?"
+        },
+        {
+            "q": "bye",
+            "a": "Goodbye! Have a great day ahead!"
+        },
+        {
+            "q": "who created you?",
+            "a": "I was created by a talented CodeAlpha intern using Python and NLP techniques."
+        }
+    ]
+}
